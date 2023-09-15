@@ -69,7 +69,7 @@ myFunction and myfunction are not the same.
 2 Most things we do in JS is a statement. E.g
 
 ```
-alert("Hello world");
+alert("Hello world"); 
 ```
 
 This is a statement 
