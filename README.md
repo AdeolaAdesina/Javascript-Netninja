@@ -87,3 +87,8 @@ Single line comment works with ```//```
 6 JS runs from top to bottom like CSS
 
 
+##Section 7 - Variables.
+
+![Screenshot_28](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/14d39555-5623-4047-9e22-9c76c2af9298)
+
+
