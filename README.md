@@ -96,3 +96,13 @@ Single line comment works with ```//```
 
 ![Screenshot_30](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/6196a497-8bbe-45d1-b149-2bc96a6d2e69)
 
+
+## Section 9 - Maths Operator Shorthand
+
+![Screenshot_31](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/31ddd014-09d2-4ac5-9521-2652e7960b34)
+
+
+## Section 10 - Logging to Console
+
+![Screenshot_30](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/7915a810-a51c-4d23-82a0-297c52bffd7d)
+
