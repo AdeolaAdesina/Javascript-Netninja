@@ -107,3 +107,6 @@ Single line comment works with ```//```
 ![Screenshot_32](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/3aff739f-9905-4e68-98eb-b0c62ed4478a)
 
 
+## Section 11 - Boolean
+
+![Screenshot_33](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/190e433a-d0f0-4a91-b372-d6c282840b25)
