@@ -92,3 +92,7 @@ Single line comment works with ```//```
 ![Screenshot_28](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/14d39555-5623-4047-9e22-9c76c2af9298)
 
 
+## Section 8 - Basic Maths Operators
+
+![Screenshot_30](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/6196a497-8bbe-45d1-b149-2bc96a6d2e69)
+
