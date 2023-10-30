@@ -126,5 +126,6 @@ Single line comment works with ```//```
 ![Screenshot_36](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/4ccd75a3-a343-438f-98e4-d59ac0e2c07e)
 
 
+## Section 15 - Logical Operators
 
-
+![Screenshot_37](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/f3e35a4d-05b3-4b8e-8397-39f741e0372a)
