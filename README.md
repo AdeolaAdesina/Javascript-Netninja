@@ -104,5 +104,6 @@ Single line comment works with ```//```
 
 ## Section 10 - Logging to Console
 
-![Screenshot_30](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/7915a810-a51c-4d23-82a0-297c52bffd7d)
+![Screenshot_32](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/3aff739f-9905-4e68-98eb-b0c62ed4478a)
+
 
