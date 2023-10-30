@@ -110,3 +110,13 @@ Single line comment works with ```//```
 ## Section 11 - Boolean
 
 ![Screenshot_33](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/190e433a-d0f0-4a91-b372-d6c282840b25)
+
+
+## Section 12 -  If Statements
+
+![Screenshot_34](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/2061b957-f6e9-40e5-8a88-ea0642778ac9)
+
+
+## Section 13 - Else If Statements
+
+
