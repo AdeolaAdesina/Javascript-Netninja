@@ -13,7 +13,7 @@
 ![Screenshot_19](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/ba895626-bd6b-4a66-8a47-7ddfee130cbf)
 
 
-##Section 3 - Hello world
+## Section 3 - Hello world
 
 
 We embed Javascript into HTML with a script tag.
@@ -26,7 +26,7 @@ We embed Javascript into HTML with a script tag.
 
 
 
-##Section 4 - Where to put your Javascript
+## Section 4 - Where to put your Javascript
 
 Running the frontend before the Javascript works. Because it will load the JS functionality last.
 
@@ -87,7 +87,7 @@ Single line comment works with ```//```
 6 JS runs from top to bottom like CSS
 
 
-##Section 7 - Variables.
+## Section 7 - Variables.
 
 ![Screenshot_28](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/14d39555-5623-4047-9e22-9c76c2af9298)
 
