@@ -119,4 +119,12 @@ Single line comment works with ```//```
 
 ## Section 13 - Else If Statements
 
+![Screenshot_35](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/e513a812-5846-4a2f-a114-9b3b38c725da)
+
+## Section 14 - Comparison Operators
+
+![Screenshot_36](https://github.com/AdeolaAdesina/Javascript-Netninja/assets/29931071/4ccd75a3-a343-438f-98e4-d59ac0e2c07e)
+
+
+
 
